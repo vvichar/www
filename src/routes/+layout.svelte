@@ -1,6 +1,7 @@
 <script>
 	import censor from '/assets/censor.gif';
 	import picture from '/assets/picture.png';
+	import blahaj from '/assets/blahaj.png'
 	import { page } from '$app/stores';
 </script>
 
@@ -46,5 +47,5 @@
 
 <footer>
 	<p><i>made with</i> ❤ <i>by charlie | <i>site last modified Feburary 18th 2025</i> | <a href="https://github.com/a53xd/www">source code viewable here, credits to itzzen for code</a></i></p>
-	<p><img src="static\assets\blahaj.png" style="height:15px;"> certified Good Website by blåhaj</p>
+	<p><img src="{blahaj}" style="height:15px;"> certified Good Website by blåhaj</p>
 </footer>
