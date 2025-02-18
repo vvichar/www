@@ -8,7 +8,7 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 
 ### Developemnt
 
-- [<i class="fa-solid fa-github"></i> a53xd](https://github.com/a53xd) | GitHub <i class="fa-solid fa-key"></i>
+- [<i class="fa-solid fa-github-alt"></i> a53xd](https://github.com/a53xd) | GitHub <i class="fa-solid fa-key"></i>
 
 ### Games
 
