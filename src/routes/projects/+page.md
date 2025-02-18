@@ -2,7 +2,7 @@
 
 I have created a few projects, here they are:
 
-- [<i class="fa-solid fa-cookie-bite"></i> Cookie Patchset](https://codeberg.org/itzzen/cookie-patchset) | patches for the infamous cookie clicker idle game
+- [<i class="fa-solid fa-cookie-bite"></i> Unbound](https://app.unbnd.net) | A client for the infamous alternative social media platform bluesky, but possibly an app that is it's own social soon....
 
 ## Discontinued projects
 
