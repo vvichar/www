@@ -8,7 +8,9 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 
 ### Developemnt
 
-- [<i class="fa-solid fa-github-alt"></i> a53xd](https://github.com/a53xd) | GitHub <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-github"></i> a53xd](https://github.com/a53xd) | GitHub <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-gitlab"></i> a53xd](https://gitlab.com/a53xd) | GitLab
+- [<i class="fa-solid fa-mountain"></i> a53x](https://codeberg.org/a53x) | Codeberg
 
 ### Games
 
@@ -25,9 +27,10 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 - <i class="fa-brands fa-discord"></i> @a53xd | Discord <i class="fa-solid fa-key"></i>
 - <i class="fa-solid fa-hashtag"></i> barebones | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
 - [<i class="fa-brands fa-x-twitter"></i> @definatelychar](https://x.com/@definatelychar) | X <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-mastodon"></i> @imcharlie](https://hachyderm.io/@imcharlie) | Mastodon <i class="fa-solid fa-key"></i>
 
 ### YouTube Channels
 
-- [<i class="fa-brands fa-youtube"></i> @ffurtech](https://www.youtube.com/@ffurtech) | whytube
+- [<i class="fa-brands fa-youtube"></i> @a53xd](https://www.youtube.com/@a53xd) | Main Channel
 
 **<i class="fa-solid fa-key"></i> This profile has been verified with OpenPGP, or atleast i tried.** See my Keyoxide profile at [keyoxide.org](https://keyoxide.org/EA7E13D2A370541769A374AD4CBCBA514CEF5544) for more information.
