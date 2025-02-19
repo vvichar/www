@@ -13,6 +13,7 @@
 	<meta property="og:description" content="yeah uh this charlie nest of autism" />
 	<meta property="og:url" content="https://t480.dev{$page.url.pathname}" />
 	<meta property="og:image" content={picture} />
+	<a rel="me" href="https://hachyderm.io/@imcharlie">Mastodon</a>
 </svelte:head>
 
 <header>
