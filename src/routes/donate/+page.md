@@ -17,4 +17,4 @@ If you like this page, my work on my various projects, or whatever I did that ha
 
 ### Referral Links
 
-- [<i class="fa-solid fa-link"></i> This could be a referral but](https://google.com) | I only left this here so i could remember later on how to not blow up this section
+- [<i class="fa-solid fa-link"></i> Tutanota](https://app.tuta.com/signup?ref=b0YyMmxYVmg) | By signing up to a tuta yearly subscription with my link, i will receive 25% of your first payment in credit on my account, and you get a free month.
