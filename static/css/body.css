@@ -231,4 +231,8 @@ li + li {
 		height: 80px;
 		width: auto;
 	}
+	
+	.badge {
+		width: 58px;
+	}
 }
