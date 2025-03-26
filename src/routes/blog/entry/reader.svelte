@@ -27,6 +27,6 @@
 {#if modified}
 	<p>modified date: {modified}</p>
 {/if}
-<p>author: charlie (a53x@shitposting.expert)</p>
+<p>author: charlie mills (charco@tuta.io) (@cms.14)</p>
 <hr />
 <slot />

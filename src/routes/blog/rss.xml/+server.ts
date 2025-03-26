@@ -10,7 +10,7 @@ export const GET = async () => {
 <title>charlie's blog</title>
 <atom:link href="https://t480.dev/blog/rss.xml" rel="self" type="application/rss+xml" />
 <link>https://t480.dev/blog/rss.xml</link>
-<description>charlie's blog</description>
+<description>charlie shitposting, being insane, coping, venting, pretending that its 1980, and other stuff</description>
 ${posts
 	.map(
 		(post: { meta: { title: any; date: string | number | Date }; path: any; content: { html: any } }) => `

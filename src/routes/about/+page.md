@@ -2,6 +2,7 @@
 
 <div class="about-blank">
 
-leave me alone, you don't wanna know about me.
+by reading this, you agree to shitposting, coping, balls, insanity and insanity.
+also youre now a comrade. and you got pasta'd.
 
 </div>
