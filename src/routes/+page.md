@@ -15,7 +15,6 @@ import anybrowseryoulike from "/assets/buttons/anybrowseryoulike.png";
 import transyourgender from "/assets/buttons/transyourgender.gif";
 import shitify from "/assets/buttons/shitify.gif";
 import notcloudflared from "/assets/buttons/notcloudflared.png";
-import tauon from "/assets/buttons/tauon.png";
 import translunar from "/assets/buttons/translunar.png";
 import byte from "/assets/buttons/byte.png";
 </script>
