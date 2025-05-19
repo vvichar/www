@@ -14,8 +14,7 @@ import notcloudflared from "/assets/buttons/notcloudflared.png";
 import freespeech from "/assets/buttons/fspeech96.gif";
 import msidiot from "/assets/buttons/msidiot.gif";
 import piracy from "/assets/buttons/piracy.gif";
-import translunar from "/assets/buttons/translunar.png";
-import byte from "/assets/buttons/byte.png";
+
 </script>
 
 <style>
