@@ -6,10 +6,9 @@
 </script>
 
 <svelte:head>
-	<title>{$page.url.pathname} | charlie's autism nest</title>
-	<meta name="description" content="abracadabra abra ooh na na abracadabra na na nu na naaa" />
+	<title>{$page.url.pathname} | charlie's webcave</title>
 	<meta content="#FFC0CB" data-react-helmet="true" name="theme-color" />
-	<meta property="og:title" content="allissa's comfy burrow | {$page.url.pathname}" />
+	<meta property="og:title" content="charlie's house in the interwebs | {$page.url.pathname}" />
 	<meta property="og:description" content="yeah uh this charlie nest of autism" />
 	<meta property="og:url" content="https://t480.dev{$page.url.pathname}" />
 	<meta property="og:image" content={picture} />
@@ -17,9 +16,8 @@
 </svelte:head>
 
 <header>
-	<h1>charlie's autism nest</h1>
-	<p><a href="https://open.spotify.com/track/5ZLUm9eab8y3tqQ1OhQSHI?si=0f5bd371809944a3"><i>“abra ooh na na~”</i></a></p>
-	<p><a href="https://nutshell.t480.dev"><i>“professionals go here”</i></a></p>
+	<h1>charlie's webcave</h1>
+	<p>you know youre better than this.</p>
 </header>
 
 <main>
@@ -36,7 +34,7 @@
 		</div>
 		<div class="images">
 			<hr />
-			<img src={picture} alt="kanna kamui looking up" title="me.png" id="picture" />
+			<img src={picture} alt="blahaj." title="me.png" id="picture" />
 			<hr />
 			<a href="https://www.mabsland.com/Adoption.html" id="censor"><img src={censor} alt="website content is rated WEB-14" title="This site is rated WEB-14. However, external links may not be rated." /></a>
 		</div>
@@ -48,6 +46,6 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by charlie | <i>site last modified March 26th 2025</i> | <a href="https://github.com/a53xd/www">source code viewable here, credits to itzzen for code</a></i></p>
+	<p><i>made with</i> ❤ <i>by charlie | <i>site last modified may 19th 2025</i> | <a href="https://github.com/a53xd/www">source code viewable here</a></i></p>
 	<p><img src="{blahaj}" style="height:15px;"> certified Good Website by blåhaj</p>
 </footer>
