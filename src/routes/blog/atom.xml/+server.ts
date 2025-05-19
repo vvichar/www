@@ -10,7 +10,7 @@ export const GET = async () => {
 <title>charlie's blog</title>
 <author>
 <name>charlie</name>
-<email>a53x@shitposting.expert</email>
+<email>charco@tuta.io</email>
 </author>
 <id>urn:uuid:7b459989-5361-486c-9d6d-e337b3510bf1</id>
 ${posts
