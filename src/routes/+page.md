@@ -27,7 +27,7 @@ import piracy from "/assets/buttons/piracy.gif";
 
 ## hiya, name's charlie.
 
-this is my cave, but on the quite fun interwebs. this website has been made non-modern to preserve the fun-ness of the olf internet. go crazy here, i made this place for a reason. Enjoy your stay!
+this is my cave, but on the quite fun interwebs. this website has been made non-modern to preserve the fun-ness of the old internet. go crazy here, i made this place for a reason. Enjoy your stay!
 
 you will soon be able to visit this website by visiting an onion adress like <span class="letter-break">[charcoal[lost of numbers and letters].onion](https://duckduckgo.com/)</span> in the [Tor Browser](https://torproject.org)
 
@@ -36,7 +36,7 @@ you will soon be able to visit this website by visiting an onion adress like <sp
 	<source alt="a clip where a person talks about a specific tor node not being a honeypot" src="{frontpagevideo}" type="video/webm">
 </video>
 
-
+<div>
 <iframe src="//incr.easrng.net/badge?key=charcoaldevnet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
 <a href="https://freebsd.org"><img src={freebsdpowered} alt="powered by freeBSD" class="button"></a>
@@ -51,3 +51,4 @@ you will soon be able to visit this website by visiting an onion adress like <sp
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
 
 <iframe src="https://john.citrons.xyz/embed?ref=t480.dev" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
+</div>

@@ -23,10 +23,10 @@ if i ever decide to, my blogs or "scrolls" are written here, here they are:
 
 ## Get notified
 
-there WAS an atom and RSS feed here, but due to vercel bitching i have temporarily removed said feeds. curse at vercel for this
+if you wish to magically know when i release a new thought into this river of posts, add my atom or RSS feed to your preferred client!
 
-- <i class="fa-solid fa-atom"></i> atom feed
-- <i class="fa-solid fa-rss"></i> legacy rss feed
+- [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
+- [<i class="fa-solid fa-rss"></i> legacy RSS feed](/blog/rss.xml)
 
 [![valid atom]({validatom})](https://validator.w3.org/feed/check.cgi?url=https%3A//t480.dev/blog/atom.xml)
 [![valid rss]({validrss})](https://validator.w3.org/feed/check.cgi?url=https%3A//t480.dev/blog/rss.xml)
