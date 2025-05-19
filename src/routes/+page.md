@@ -37,6 +37,10 @@ you will soon be able to visit this website by visiting an onion adress like <sp
 	<source alt="a clip where a person talks about a specific tor node not being a honeypot" src="{frontpagevideo}" type="video/webm">
 </video>
 
+---
+### [Sign my Guestbook here!](https://charcoal.atabook.org)
+---
+
 <div>
 <iframe src="//incr.easrng.net/badge?key=charcoaldevnet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
