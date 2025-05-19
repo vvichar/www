@@ -3,7 +3,7 @@ import { fetchMarkdownPosts } from '$lib/utils/blogEntries.js';
 export const prerender = true;
 export const GET = async () => {
 	const posts = JSON.parse(JSON.stringify(await fetchMarkdownPosts()));
-	const body = `<?xml version="1.0" encoding="utf-8"?>
+	const body = `<?xml version="1.0" encoding="utf-8"? }>
 <feed xmlns="http://www.w3.org/2005/Atom">
 <link href="https://t480.dev/blog/atom.xml" rel="self" type="application/rss+xml" />
 <updated>2024-04-13T00:00:00.000Z</updated>
