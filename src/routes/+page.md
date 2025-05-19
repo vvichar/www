@@ -13,7 +13,9 @@ import shitify from "/assets/buttons/shitify.gif";
 import notcloudflared from "/assets/buttons/notcloudflared.png";
 import freespeech from "/assets/buttons/fspeech96.gif";
 import msidiot from "/assets/buttons/msidiot.gif";
-import piracy from "/assets/buttons/piracy.gif"
+import piracy from "/assets/buttons/piracy.gif";
+import translunar from "/assets/buttons/translunar.png";
+import byte from "/assets/buttons/byte.png";
 </script>
 
 <style>
@@ -35,7 +37,6 @@ you will soon be able to visit this website by visiting an onion adress like <sp
 	<source alt="a clip where a person talks about a specific tor node not being a honeypot" src="{frontpagevideo}" type="video/webm">
 </video>
 
-&#8239;
 
 <iframe src="//incr.easrng.net/badge?key=charcoaldevnet" style="background: url(//incr.easrng.net/bg.gif)" title="increment badge" width="88" height="31" frameborder="0"></iframe>
 <a href="https://kernel.org"><img src={linux} alt="made on GNU/Linux" class="button"></a>
