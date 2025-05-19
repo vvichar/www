@@ -23,9 +23,9 @@ if i ever decide to, my blogs or "scrolls" are written here, here they are:
 
 ## Get notified
 
-I have an Atom feed and an RSS feed if you wish to be notified whenever I update my "scroll"!
+I have an Atom feed (don't use, under maintenance) and an RSS feed if you wish to be notified whenever I update my "scroll"!
 
-- [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
+- [<i class="fa-solid fa-atom"></i> atom feed](/blog/rss.xml)
 - [<i class="fa-solid fa-rss"></i> legacy rss feed](/blog/rss.xml)
 
 [![valid atom]({validatom})](https://validator.w3.org/feed/check.cgi?url=https%3A//t480.dev/blog/atom.xml)
