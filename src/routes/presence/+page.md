@@ -24,9 +24,7 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 ### Social
 
 - [<i class="fa-brands fa-bluesky"></i> @t480.dev](https://bsky.app/profile/t480.dev) | Bluesky <i class="fa-solid fa-key"></i>
-- <i class="fa-brands fa-discord"></i> @a53xd | Discord <i class="fa-solid fa-key"></i>
-- <i class="fa-solid fa-hashtag"></i> barebones | IRC (Libera.Chat) <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-x-twitter"></i> @rxcharcoal](https://x.com/@rxcharcoal) | X <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-x-twitter"></i> @xd2moe](https://x.com/@xd2moe) | X <i class="fa-solid fa-key"></i>
 - [<i class="fa-brands fa-mastodon"></i> @imcharlie](https://hachyderm.io/@imcharlie) | Mastodon <i class="fa-solid fa-key"></i>
 
 ### YouTube Channels

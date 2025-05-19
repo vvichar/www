@@ -11,9 +11,9 @@ img {
 }
 </style>
 
-## My blog
+## My blog, or "fountain"
 
-Very infrequently I will write a thing and post it onto this website, my entries are shown here:
+if i ever decide to, my blogs or "scrolls" are written here, here they are:
 
 <ul>
 {#each data.posts as post}
@@ -23,7 +23,7 @@ Very infrequently I will write a thing and post it onto this website, my entries
 
 ## Get notified
 
-I have an Atom feed and an RSS feed if you wish to be notified whenever I update my blog
+I have an Atom feed and an RSS feed if you wish to be notified whenever I update my "scroll"!
 
 - [<i class="fa-solid fa-atom"></i> atom feed](/blog/atom.xml)
 - [<i class="fa-solid fa-rss"></i> legacy rss feed](/blog/rss.xml)

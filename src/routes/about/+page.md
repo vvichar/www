@@ -1,8 +1,7 @@
-## About the awwtism creature
+## about the webghost
 
-<div class="about-blank">
+Hi! My name is charlie. I'm a human that is currently in school. i like to go on adventures, code stuff, talk, and be myself, i guess. i consider myself an abivert, let's posssibly be friends!
 
-by reading this, you agree to shitposting, coping, balls, insanity and insanity.
-also youre now a comrade. and you got pasta'd.
+i am into multiple aspects of tech, like cybersecurity, computer science, robotics.
 
-</div>
+i dream of one day probably having a porsche taycan turbo GT.
