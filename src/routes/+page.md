@@ -14,6 +14,7 @@ import notcloudflared from "/assets/buttons/notcloudflared.png";
 import freespeech from "/assets/buttons/fspeech96.gif";
 import msidiot from "/assets/buttons/msidiot.gif";
 import piracy from "/assets/buttons/piracy.gif";
+import firefox from "/assets/buttons/firefox.gif";
 
 </script>
 
@@ -43,10 +44,10 @@ you will soon be able to visit this website by visiting an onion adress like <sp
 <img src="{freespeech}" alt="free speech!" class="button">
 <img src="{piracy}" alt="piracy!" class="button">
 <img src="{msidiot}" alt="miscrosoft idiot!" class="button">
+<img src="{firefox}" alt="tested on firefox" class="button">
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
-<a href="https://vmfunc.gg"><img src={vmfunc} alt="mel" class="button"></a>
 <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
 <a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
 
