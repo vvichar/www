@@ -51,8 +51,8 @@ you will soon be able to visit this website by visiting an onion address like <s
 <img src="{anybrowseryoulike}" alt="any browser you like" class="button">
 <img src="{notcloudflared}" alt="This website is not cloudflared!" class="button">
 <a href="https://itzzen.net"><img src={itzzennet} alt="allissa's comfy burrow now!" class="button"></a>
-<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fitzzen.net"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
-<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fitzzen.net"><img src="{validcss}" alt="Valid CSS" class="button"></a>
+<a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Ft480.dev"><img src={validhtml5} alt="Valid HTML5" class="button"></a>
+<a href="https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Ft480.dev"><img src="{validcss}" alt="Valid CSS" class="button"></a>
 
 <iframe src="https://john.citrons.xyz/embed?ref=t480.dev" style="margin-left:auto;display:block;margin-right:auto;max-width:732px;width:100%;height:94px;border:none;"></iframe>
 </div>
