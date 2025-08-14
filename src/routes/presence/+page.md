@@ -13,7 +13,7 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 
 ### Games
 
-- [<i class="fa-brands fa-steam"></i> vi](https://steamcommunity.com/id/southfr) | Steam
+- [<i class="fa-brands fa-steam"></i> vi](https://steamcommunity.com/id/vvichar) | Steam
 
 ### Music
 
