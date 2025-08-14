@@ -8,24 +8,24 @@ If you ask, i juggle usernames mainly for privacy on socials i don't that much w
 
 ### Developemnt
 
-- [<i class="fa-brands fa-github"></i> a53xd](https://github.com/a53xd) | GitHub <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-gitlab"></i> a53xd](https://gitlab.com/a53xd) | GitLab
-- [<i class="fa-solid fa-mountain"></i> a53x](https://codeberg.org/a53x) | Codeberg
+- [<i class="fa-brands fa-github"></i> vvichar](https://github.com/vvichar) | GitHub <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-gitlab"></i> vvichar](https://gitlab.com/vvichar) | GitLab
 
 ### Games
 
-- [<i class="fa-brands fa-steam"></i> southfr](https://steamcommunity.com/id/southfr) | Steam
+- [<i class="fa-brands fa-steam"></i> vi](https://steamcommunity.com/id/southfr) | Steam
 
 ### Music
 
-- [<i class="fa-brands fa-spotify"></i> nova](https://open.spotify.com/user/31ycvxbtk27ugjkdwvedpwngy4he?si=4bdac19e1980416f) | Spotify
+- [<i class="fa-brands fa-spotify"></i> v1ch4r](https://open.spotify.com/user/31ycvxbtk27ugjkdwvedpwngy4he?si=4bdac19e1980416f) | Spotify
 - [<i class="fa-brands fa-lastfm"></i> stellirious](https://last.fm/user/stellirious) | Last.fm
 
 ### Social
 
 - [<i class="fa-brands fa-bluesky"></i> @t480.dev](https://bsky.app/profile/t480.dev) | Bluesky <i class="fa-solid fa-key"></i>
-- [<i class="fa-brands fa-x-twitter"></i> @xd2moe](https://x.com/@xd2moe) | X <i class="fa-solid fa-key"></i>
+- [<i class="fa-brands fa-x-twitter"></i> @vvicharlie](https://x.com/@vvicharlie) | X <i class="fa-solid fa-key"></i>
 - [<i class="fa-brands fa-mastodon"></i> @imcharlie](https://hachyderm.io/@imcharlie) | Mastodon <i class="fa-solid fa-key"></i>
+- [<i class="fa-solid fa-globe"></i> @xd2](https://spacehey.com/xd2) | SpaceHey <i class="fa-solid fa-key"></i>
 
 ### YouTube Channels
 

@@ -2,7 +2,7 @@
 
 If you need to contact me, I have a few options you can use.
 
-- [<i class="fa-brands fa-signal-messenger"></i> @cms.14](https://signal.me/#eu/yzmB2JtCwyRGEoBWk8H6g5vAxcfJ0ZyMiIPDkFm1K9jb6-RfdhRPvLY3v9aLsOEJ) | Signal <i class="fa-solid fa-lock">
+- [<i class="fa-brands fa-signal-messenger"></i> @cms.14](https://signal.me/#eu/yzmB2JtCwyRGEoBWk8H6g5vAxcfJ0ZyMiIPDkFm1K9jb6-RfdhRPvLY3v9aLsOEJ) | Signal (please do not corrently reach out to me here as i do not have access to this account.) <i class="fa-solid fa-lock">
 - [<i class="fa-solid fa-envelope"></i> charco@tuta.io](mailto:charco@tuta.io) | E-mail <i class="fa-solid fa-key"></i>
 
 **<i class="fa-solid fa-lock"></i> This is a secure platform.** If you need to reach out to me regarding sensitive information, these methods are preferred.

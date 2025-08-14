@@ -11,9 +11,9 @@ img {
 }
 </style>
 
-## My blog, or "fountain"
+## My super cool blog!
 
-if i ever decide to, my blogs or "scrolls" are written here, here they are:
+if i ever decide to, my blogs are written here, here they are: (now posting more frequently!)
 
 <ul>
 {#each data.posts as post}
