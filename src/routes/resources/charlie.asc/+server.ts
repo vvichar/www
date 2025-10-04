@@ -1,4 +1,6 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
+export const prerender = true;
+export const GET = async () => {
+	const body = `-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mDMEaODL8xYJKwYBBAHaRw8BAQdAw//a1VTzZwqcSibxBohG+lDuvhFRGjFjJT8p
 xQyOcLi0GmNoYXJsaWUgZSA8Y2hhcmNvQHR1dGEuaW8+iJkEExYKAEEWIQSepS88
@@ -11,3 +13,12 @@ A8J9HQAKCRCmlSC/HFESmVdQAQDcr2Ygt24i7+f2TClPctJ608Um+a1aV6RpShQf
 gc6qtQD+NmKPqEYFHXRQHDWuZjDV+iU5ik/5BOrE2+TSpnJS7As=
 =l4yb
 -----END PGP PUBLIC KEY BLOCK-----
+`;
+
+	const headers: Headers = new Headers({
+		'Content-Type': 'text/plain; charset=utf-8',
+		'Cache-Control': `max-age=0, s-max-age=${600}`,
+		'Content-Disposition': 'inline; filename=allissa.gpg'
+	});
+	return new Response(body, { headers });
+};
