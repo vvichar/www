@@ -1,9 +1,9 @@
-## about the webghost
+## about the anon
 
-hi! my name is charlie. I'm a human that is currently in school. i like to go on adventures, code stuff, talk, and be myself, i guess. i consider myself an ambivert, let's posssibly be friends!
+hellow!!!!! my name is charlie, i and the founder of the Neuron Foundation together with [Juniper!](https://orb.gay). I'm an ambivert that is very very interested in privacy (fuck google lol).
 
-i am into multiple aspects of tech, like cybersecurity, computer science, robotics.
+Considering myself an ambivert, i still don't have much of a big friend circle (i prefer a couple core friends than 365 friends that i forgot to text like 8 months ago)
 
-i also like music, particularily breakcore, particularily sewerslvt, particularily lolibox
+I dream of one day helping someone with my creations, and to have a cool office for neuron where i can throw hackathons and parties lmao
 
-i dream of one day probably being mentally stable
+If you wanna try to befriend me, then try idk (i dont think ill respond though)

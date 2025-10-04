@@ -46,6 +46,6 @@
 </main>
 
 <footer>
-	<p><i>made with</i> ❤ <i>by charlie | <i>site last modified may 19th 2025</i> | <a href="https://github.com/a53xd/www">source code viewable here</a></i></p>
+	<p><i>made with</i> ❤ <i>by charlie | <i>site last modified october 4th 2025</i> | <a href="https://github.com/a53xd/www">source code viewable here</a></i></p>
 	<p><img src="{blahaj}" style="height:15px;"> certified Good Website by blåhaj</p>
 </footer>
