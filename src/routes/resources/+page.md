@@ -4,4 +4,4 @@ I needed a place on my website to dump some files, so welcome to my resource pag
 
 | file name  | description            | link                                           |
 | ---------- | ---------------------- | ---------------------------------------------- |
-| charlie.asc | my own personal public PGP key. | [/resources/charlie_public.asc](https://t480.dev/resources/charlie_public.asc) |
+| charlie.asc | my own personal public PGP key. | [/resources/charlie_public.asc](https://t480.dev/resources/charlie.asc) |
